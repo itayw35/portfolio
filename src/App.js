@@ -12,13 +12,13 @@ const projects = [
     name: "spotitay",
     image: spotitay,
     link: "https://spotitay.netlify.app",
-    tags: ["js", "react", "node.js", "mongo"],
+    tags: ["js", "react", "css", "node.js", "mongo"],
   },
   {
     name: "itay-drive",
     image: drive,
     link: "https://itay-drive.netlify.app",
-    tags: ["js", "react", "node.js"],
+    tags: ["js", "react", "css", "node.js"],
   },
   {
     name: "memory game",
